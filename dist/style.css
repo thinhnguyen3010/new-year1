@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-size: 40px;
+  color: yellow;
+  font-size:100px;
+  font-weight: bold;
+}
+
+span{font-size:80px;color:#f00;}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
